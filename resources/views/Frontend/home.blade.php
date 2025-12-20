@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-@section('title') Home | Bookkeepings Biz @endsection
+@section('title') Bookkeeping & Accounting Solutions | Bookkeepings Biz @endsection
 @section('content')
 
     <!-- Header Section End -->
