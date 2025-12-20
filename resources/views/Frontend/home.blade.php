@@ -563,12 +563,12 @@
             <div
               class="border border-strokeColor p-12 flex flex-col justify-center items-center hover:bg-s2 hover:border-mainTextColor duration-700">
               <p class="text-bodyText text-center">
-               “The financial insights and monthly reports provided by BookkeepingsBiz helped us improve cash flow and make confident strategic decisions.”
+              “I was struggling to keep my books updated and accurate. After hiring this team, everything is organized and I finally feel in control of my finances.”
               </p>
               <div class="flex gap-3 pt-3">
                 
                 <div class="">
-                  <p class="text-lg font-medium">Amy Gutierrez</p>
+                  <p class="text-lg font-medium">Liam D.</p>
                 </div>
               </div>
             </div>
@@ -577,12 +577,12 @@
             <div
               class="border border-strokeColor p-12 flex flex-col justify-center items-center hover:bg-s2 hover:border-mainTextColor duration-700">
               <p class="text-bodyText text-center">
-               “Reliable bookkeeping and stress-free tax filing. BookkeepingsBiz allows me to focus on growing my business without worrying about finances.”
+               “This service simplified my bookkeeping completely. They were prompt, professional, and helped me save time every month.”
               </p>
               <div class="flex gap-3 pt-3">
                 
                 <div class="">
-                  <p class="text-lg font-medium">John D</p>
+                  <p class="text-lg font-medium">Sophia T.</p>
                 </div>
               </div>
             </div>
@@ -591,12 +591,12 @@
             <div
               class="border border-strokeColor p-12 flex flex-col justify-center items-center hover:bg-s2 hover:border-mainTextColor duration-700">
               <p class="text-bodyText text-center">
-                “Accurate reporting, on-time payroll, and excellent support. Their services significantly improved our HR and compliance processes.”
+                “Before working with them, tax season was a nightmare. Now I’m confident my records are correct and always ready.”
               </p>
               <div class="flex gap-3 pt-3">
                 
                 <div class="">
-                  <p class="text-lg font-medium">Hunter Romero</p>
+                  <p class="text-lg font-medium">Noah P.</p>
                 </div>
               </div>
             </div>
@@ -605,7 +605,7 @@
             <div
               class="border border-strokeColor p-12 flex flex-col justify-center items-center hover:bg-s2 hover:border-mainTextColor duration-700">
               <p class="text-bodyText text-center">
-               “BookkeepingsBiz’s expertise in financial compliance and reporting gave us peace of mind throughout the year.”
+               “Their team helped me understand my finances clearly. It’s been a total game‑changer for my small business.”
               </p>
               <div class="flex gap-3 pt-3">
                
@@ -619,12 +619,12 @@
             <div
               class="border border-strokeColor p-12 flex flex-col justify-center items-center hover:bg-s2 hover:border-mainTextColor duration-700">
               <p class="text-bodyText text-center">
-                “Their accounting support is professional and consistent. From reconciliations to tax filings, everything is handled smoothly.”
+                “I no longer dread bookkeeping tasks. Their support and accuracy have made running my business much easier.”
               </p>
               <div class="flex gap-3 pt-3">
                 
                 <div class="">
-                  <p class="text-lg font-medium">John D</p>
+                  <p class="text-lg font-medium">Olivia R.</p>
                 </div>
               </div>
             </div>
@@ -633,12 +633,12 @@
             <div
               class="border border-strokeColor p-12 flex flex-col justify-center items-center hover:bg-s2 hover:border-mainTextColor duration-700">
               <p class="text-bodyText text-center">
-               “Transparent pricing, clear communication, and reliable financial management. Highly recommended for growing businesses.”
+               “From day one they were responsive and reliable. They organized my accounts and improved my financial clarity.”
               </p>
               <div class="flex gap-3 pt-3">
                
                 <div class="">
-                  <p class="text-lg font-medium">Hunter Romero</p>
+                  <p class="text-lg font-medium">Mason K.</p>
                 </div>
               </div>
             </div>
@@ -647,12 +647,12 @@
             <div
               class="border border-strokeColor p-12 flex flex-col justify-center items-center hover:bg-s2 hover:border-mainTextColor duration-700">
               <p class="text-bodyText text-center">
-               “BookkeepingsBiz helped us clean up our books and maintain accurate financial records, which improved our decision-making.”
+               “Professional, efficient, and caring — they manage my books better than I ever could. Highly recommend their services.”
               </p>
               <div class="flex gap-3 pt-3">
                 
                 <div class="">
-                  <p class="text-lg font-medium">Jack Wong</p>
+                  <p class="text-lg font-medium">Elijah S.</p>
                 </div>
               </div>
             </div>
