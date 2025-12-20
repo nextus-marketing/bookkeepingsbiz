@@ -1,0 +1,29 @@
+@media (min-width: 1200px) {
+    .display-2 {
+        font-size: 50px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .hero_bg_gradient {
+        background: linear-gradient(252deg, #eafaf8 0%, rgba(26, 147, 138, 0) 100.44%) !important;
+    }
+}
+
+@media (min-width: 576px) {
+    .sm\:py-20 {
+        padding-top: 5rem !important;
+        padding-bottom: 2rem !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .sbp-30 {
+        padding-bottom: 70px !important;
+    }
+}
+
+.py-10 {
+    padding-top: 5rem !important;
+    padding-bottom: 2.5rem !important;
+}
