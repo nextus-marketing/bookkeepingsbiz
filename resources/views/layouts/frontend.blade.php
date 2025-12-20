@@ -182,6 +182,71 @@
 
     <!-- Scroll To top Button End -->
 
+    <!-- Floating Call Now Button -->
+<a href="tel:+1234567890" class="call-now">
+    <i class="fas fa-phone"></i>
+</a>
+
+<style>
+/* Include FontAwesome for the phone icon */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+
+.call-now {
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    background: rgb(26, 147, 138);
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    text-decoration: none;
+    box-shadow: 0 5px 15px rgba(26,147,138,0.4);
+    transition: all 0.3s ease;
+    z-index: 9999;
+}
+
+.call-now:hover {
+    background: rgb(20, 120, 112);
+    transform: scale(1.1);
+    box-shadow: 0 8px 20px rgba(26,147,138,0.6);
+}
+
+/* Optional pulse effect */
+.call-now::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: rgba(26, 147, 138, 0.4);
+    animation: pulse 1.5s infinite;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+        opacity: 0.7;
+    }
+    50% {
+        transform: scale(1.3);
+        opacity: 0.4;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 0.7;
+    }
+}
+</style>
+
+
     <!--==================================================================-->
 
     <!-- ==== js dependencies start ==== -->
