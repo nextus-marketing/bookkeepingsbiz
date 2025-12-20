@@ -33,7 +33,7 @@
           <h1
             class="uppercase text-base lg:text-xl font-semibold animate__animated animate__fadeInUp"
           >
-            Welcome to Bookkeeping Bizzzz
+            Welcome to Bookkeeping Biz
 </h1>
           <div class="display-2">
            Professional 
