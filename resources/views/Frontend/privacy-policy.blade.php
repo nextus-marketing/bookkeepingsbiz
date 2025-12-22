@@ -81,7 +81,7 @@
     <li>Service – Refers to the Website.</li>
     <li>Service Provider – Third-party companies or individuals who process data for the Company.</li>
     <li>Usage Data – Data collected automatically from using the Service.</li>
-    <li>Website – Bookkeepings Biz, accessible at https://the-bookify.com/</li>
+    <li>Website – Bookkeepings Biz, accessible at <a href="https://bookkeepingsbiz.com/">https://bookkeepingsbiz.com/</a></li>
     <li>You – The individual or entity using or accessing the Service.</li>
   </ul>
 
