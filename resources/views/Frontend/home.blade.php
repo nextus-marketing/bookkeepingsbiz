@@ -385,8 +385,7 @@
         </h2>
 
         <p class="text-bodyText wow animate__animated animate__fadeInUp">
-          At Bookkeepings Biz, we believe in providing clear and flexible pricing
-          options tailored to your business needs.
+         At Accords Book, we offer transparent and flexible accounting and bookkeeping packages designed to fit businesses of all sizes. Choose the plan that best suits your needs and get professional financial services without any hidden costs.
         </p>
       </div>
     </div>
@@ -412,43 +411,13 @@
           <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>Monthly reports</li>
           <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>Business registration help</li>
         </ul>
-</br>
+       </br>
         <a href="#0" class="py-4 w-full bg-s1 text-white rounded-full flex justify-center items-center gap-2 hover:bg-mainTextColor">
           Get Started <i class="ph ph-arrow-right"></i>
         </a>
       </div>
 
-      <!-- CFO Advisory -->
-      <div class="col-span-12 md:col-span-6 lg:col-span-4 p-6 sm:p-10 border border-strokeColor bg-white hover:bg-s2 duration-700 group relative wow animate__animated animate__fadeInUp">
-        <div
-            class="absolute top-9 py-1 right-4 uppercase text-[13px] text-white bg-s1 rotate-90 px-4 flex justify-center items-center">
-            <p class="pr-2">popular</p>
-            <span class="rotate-90 text-7xl !leading-none absolute right-0 pb-16 group-hover:text-s2 duration-700">
-              <i class="ph-fill ph-caret-down"></i>
-            </span>
-          </div>
-
-        <h3 class="heading-3 pt-5 pb-4">CFO Advisory</h3>
-        <p class="text-bodyText pb-8">
-          Additional Solutions Available. Get complete CFO advisory with Starter plan.
-        </p>
-
-        <p class="pb-6">
-          <span class="display-4">$399</span>
-          <span class="text-bodyText"> / monthly</span>
-        </p>
-
-        <ul class="text-bodyText flex flex-col gap-5 pb-8">
-          <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>CFO consultations</li>
-          <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>Risk management</li>
-          <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>KPI dashboard setup</li>
-          <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>Financial reports</li>
-        </ul>
-
-        <a href="#0" class="py-4 w-full bg-s1 text-white rounded-full flex justify-center items-center gap-2 hover:bg-mainTextColor">
-          Get Started <i class="ph ph-arrow-right"></i>
-        </a>
-      </div>
+     
 
       <!-- Growth -->
       <div class="col-span-12 md:col-span-6 lg:col-span-4 p-6 sm:p-10 border border-strokeColor bg-white hover:bg-s2 duration-700 group wow animate__animated animate__fadeInUp">
@@ -474,8 +443,10 @@
         </a>
       </div>
 
-      <!-- Expansion (CENTERED) -->
-      <div class="col-span-12 md:col-span-6 lg:col-span-4 lg:col-start-3 p-6 sm:p-10 border border-strokeColor bg-white hover:bg-s2 duration-700 group wow animate__animated animate__fadeInUp">
+       <!-- Expansion -->
+      <div class="col-span-12 md:col-span-6 lg:col-span-4 p-6 sm:p-10 border border-strokeColor bg-white hover:bg-s2 duration-700 group relative wow animate__animated animate__fadeInUp">
+          
+
         <h3 class="heading-3 pt-5 pb-4">Expansion</h3>
         <p class="text-bodyText pb-8">
           Business is flourishing? Manage your finances better than ever.
@@ -492,11 +463,45 @@
           <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>Automation setup</li>
           <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>Quarterly reviews</li>
         </ul>
+        </br>
+        <a href="#0" class="py-4 w-full bg-s1 text-white rounded-full flex justify-center items-center gap-2 hover:bg-mainTextColor">
+          Get Started <i class="ph ph-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- Expansion (CENTERED) -->
+      <div class="col-span-12 md:col-span-6 lg:col-span-4 lg:col-start-3 p-6 sm:p-10 border border-strokeColor bg-white hover:bg-s2 duration-700 group relative wow animate__animated animate__fadeInUp">
+          <div
+            class="absolute top-9 py-1 right-4 uppercase text-[13px] text-white bg-s1 rotate-90 px-4 flex justify-center items-center">
+            <p class="pr-2">popular</p>
+            <span class="rotate-90 text-7xl !leading-none absolute right-0 pb-16 group-hover:text-s2 duration-700">
+              <i class="ph-fill ph-caret-down"></i>
+            </span>
+          </div>  
+      <h3 class="heading-3 pt-5 pb-4">CFO Advisory</h3>
+        <p class="text-bodyText pb-8">
+         Additional Solutions Available. Get complete CFO advisory with Starter plan.
+        </p>
+
+        <p class="pb-6">
+          <span class="display-4">$399</span>
+          <span class="text-bodyText"> / monthly</span>
+        </p>
+        
+
+        <ul class="text-bodyText flex flex-col gap-5 pb-8">
+          <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>CFO consultations</li>
+          <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>Risk management</li>
+          <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>KPI dashboard setup</li>
+          <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>Financial reports</li>
+        </ul>
 
         <a href="#0" class="py-4 w-full bg-s1 text-white rounded-full flex justify-center items-center gap-2 hover:bg-mainTextColor">
           Get Started <i class="ph ph-arrow-right"></i>
         </a>
       </div>
+
+      
 
       <!-- Customized -->
       <div class="col-span-12 md:col-span-6 lg:col-span-4 p-6 sm:p-10 border border-strokeColor bg-white hover:bg-s2 duration-700 group wow animate__animated animate__fadeInUp">
@@ -513,7 +518,7 @@
           <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>Personalized tax help</li>
           <li class="flex gap-3 items-center"><i class="ph-fill ph-check-circle text-p1 text-2xl"></i>On-demand reports</li>
         </ul>
-     
+     </br>
         <a href="#0" class="py-4 w-full bg-s1 text-white rounded-full flex justify-center items-center gap-2 hover:bg-mainTextColor">
           Get Started <i class="ph ph-arrow-right"></i>
         </a>
@@ -522,6 +527,7 @@
     </div>
   </div>
 </section>
+
 
     <!-- Pricing Section End -->
 
