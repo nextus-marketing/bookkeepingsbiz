@@ -1,7 +1,7 @@
 @extends('layouts.frontend')
 
 @section('title')
-    404 Not Found |The Audit Alliance
+    404 Not Found |Bookkeepings Biz
 @endsection
 
 @section('content')
